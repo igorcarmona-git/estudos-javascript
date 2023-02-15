@@ -2,10 +2,10 @@
 
 // Declaration (declaração)
 
-var name
+var nome
 
 // assignment (Atribuição de valores)
-name = "Igor"
+nome = "Igor"
 
 // que tipo de dado foi colocado na variável
-console.log(typeof name)
+console.log(typeof nome)

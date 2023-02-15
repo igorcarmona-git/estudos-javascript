@@ -18,6 +18,6 @@ Ideal:
     - snake_case --> exemplo: check_if_name_exists
     - Escrever em inglês
 */
-let name = "Igor"
-let checkIfNameExists = name === "Igor"
+let nome = "Igor"
+let checkIfNameExists = nome === "Igor"
 console.log(checkIfNameExists)
